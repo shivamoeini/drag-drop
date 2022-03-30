@@ -44,6 +44,4 @@ function createList() {
 
       draggable_list.appendChild(listItem);
     });
-
-  //   addEventListeners();
 }
